@@ -75,3 +75,8 @@ npm run build
 This tool is for **educational and personal use only**.
 * It only removes visible watermarks; it **does not** remove invisible SynthID watermarks.
 * Please respect Google's Terms of Service and Intellectual Property rights.
+
+## 🤝 Credits
+
+* Original developed by [**Abhin Krishna**](https://github.com/dearabhin/gemini-watermark-remover/). Adapted to vite by Lumi-Script.
+* Algorithm adapted from [GeminiWatermarkTool](https://github.com/allenk/GeminiWatermarkTool).
