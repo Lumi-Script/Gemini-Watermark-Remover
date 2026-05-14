@@ -67,7 +67,7 @@ npm run build
 ```
 
 ### Deployment (Cloudflare)
-[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/Lumi-Script/Gemini-Watermark-Remover)
+[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/Lumi-Script/gemini-watermark-remover)
 
 
 ## ⚠️ Disclaimer
