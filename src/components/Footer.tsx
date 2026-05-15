@@ -10,7 +10,8 @@ export const Footer = () => {
           className="text-purple-400 hover:text-purple-300 hover:underline transition-colors font-medium"
         >
           GitHub
-        </a>
+        </a>.
+        Disclaimer: Not affilicated with Gemini.
       </p>
     </footer>
   );
