@@ -2,6 +2,7 @@ import React, { useState, useEffect, useRef, useCallback } from 'react';
 import { WatermarkEngine, ProcessResult } from './lib/engine';
 import JSZip from 'jszip';
 import 'iconify-icon';
+import { Footer } from './components/Footer'
 
 interface ProcessedFile extends ProcessResult {
   name: string;
@@ -271,6 +272,7 @@ const App: React.FC = () => {
             Disclaimer: This project is not affiliated with Google Gemini.
           </p>
         </div>
+      <Footer />
       </footer>
     </div>
   );
