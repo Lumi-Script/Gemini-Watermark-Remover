@@ -265,15 +265,7 @@ const App: React.FC = () => {
           </div>
         </section>
       </main>
-
-      <footer className="bg-white dark:bg-theme-cardDark border-t border-gray-100 dark:border-gray-800 mt-auto">
-        <div className="max-w-7xl mx-auto px-4 py-8 text-center">
-          <p className="text-xs text-slate-400 dark:text-slate-600 mt-4">
-            Disclaimer: This project is not affiliated with Google Gemini.
-          </p>
-          <Footer />
-        </div>
-      </footer>
+      <Footer />
     </div>
   );
 };
