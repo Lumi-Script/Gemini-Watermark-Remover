@@ -273,7 +273,6 @@ const App: React.FC = () => {
           </p>
           <Footer />
         </div>
-
       </footer>
     </div>
   );
