@@ -271,8 +271,9 @@ const App: React.FC = () => {
           <p className="text-xs text-slate-400 dark:text-slate-600 mt-4">
             Disclaimer: This project is not affiliated with Google Gemini.
           </p>
+          <Footer />
         </div>
-      <Footer />
+
       </footer>
     </div>
   );
